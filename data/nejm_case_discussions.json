@@ -1,0 +1,225 @@
+{
+  "source_note": "Synthetic teaching pearls inspired by published clinicopathologic case-discussion style. Replace with your own institution-approved summaries.",
+  "patterns": [
+    {
+      "complaint": "chest pain",
+      "keywords": ["pressure", "exertion", "radiation", "pleuritic", "palpitations"],
+      "discussion_focus": [
+        "time course and triggers",
+        "ischemic versus pleuritic features",
+        "associated dyspnea or diaphoresis",
+        "cardiovascular risk factors"
+      ],
+      "high_yield_questions": [
+        "When did the pain start and what were you doing?",
+        "Is it pressure-like, sharp, or burning?",
+        "Does it move to jaw, arm, or back?",
+        "Any shortness of breath, nausea, or sweating?"
+      ],
+      "red_flags": [
+        "persistent severe chest pain",
+        "syncope",
+        "dyspnea at rest",
+        "hemodynamic instability"
+      ]
+    },
+    {
+      "complaint": "shortness of breath",
+      "keywords": ["dyspnea", "wheeze", "orthopnea", "cough", "fever"],
+      "discussion_focus": [
+        "acute versus chronic dyspnea",
+        "pulmonary and cardiac contributors",
+        "infectious symptoms",
+        "functional impact"
+      ],
+      "high_yield_questions": [
+        "Did breathing trouble start suddenly or gradually?",
+        "Is it worse lying flat or with exertion?",
+        "Any cough, fever, or chest pain?",
+        "Can you speak full sentences without pausing?"
+      ],
+      "red_flags": [
+        "severe respiratory distress",
+        "cyanosis",
+        "altered mental status",
+        "oxygen saturation concern"
+      ]
+    },
+    {
+      "complaint": "abdominal pain",
+      "keywords": ["nausea", "vomiting", "diarrhea", "constipation", "fever"],
+      "discussion_focus": [
+        "location and migration of pain",
+        "relationship to meals and bowel movements",
+        "associated gastrointestinal symptoms",
+        "surgical and gynecologic history"
+      ],
+      "high_yield_questions": [
+        "Where exactly is the pain and does it spread?",
+        "Is it constant or crampy?",
+        "Any vomiting, blood in stool, or black stool?",
+        "Any prior abdominal surgery?"
+      ],
+      "red_flags": [
+        "rigid abdomen",
+        "persistent vomiting",
+        "hematemesis or melena",
+        "severe dehydration"
+      ]
+    },
+    {
+      "complaint": "headache",
+      "keywords": ["migraine", "photophobia", "neck stiffness", "neurologic", "vision"],
+      "discussion_focus": [
+        "first or worst headache assessment",
+        "pattern compared with prior headaches",
+        "neurologic deficits",
+        "infectious warning features"
+      ],
+      "high_yield_questions": [
+        "Is this your first or worst headache?",
+        "How quickly did it reach peak intensity?",
+        "Any vision changes, weakness, numbness, or speech problems?",
+        "Any fever or neck stiffness?"
+      ],
+      "red_flags": [
+        "thunderclap onset",
+        "focal neurologic deficits",
+        "meningismus",
+        "new headache with anticoagulation"
+      ]
+    },
+    {
+      "complaint": "fever",
+      "keywords": ["chills", "rash", "travel", "immunocompromised", "infection"],
+      "discussion_focus": [
+        "duration and pattern of fever",
+        "localizing symptoms",
+        "exposures and travel",
+        "host vulnerability"
+      ],
+      "high_yield_questions": [
+        "How high has the temperature been and for how long?",
+        "Any cough, urinary symptoms, abdominal pain, or rash?",
+        "Any recent travel, sick contacts, or new medications?",
+        "Do you have immune suppression or chronic conditions?"
+      ],
+      "red_flags": [
+        "confusion",
+        "hypotension",
+        "severe dehydration",
+        "immunocompromised patient with high fever"
+      ]
+    },
+    {
+      "complaint": "syncope or dizziness",
+      "keywords": ["fainting", "vertigo", "presyncope", "palpitations", "orthostatic"],
+      "discussion_focus": [
+        "event circumstances and prodrome",
+        "post-event recovery",
+        "cardiac red flags",
+        "medication contributors"
+      ],
+      "high_yield_questions": [
+        "What happened just before you felt faint?",
+        "Did you fully lose consciousness and for how long?",
+        "Any chest pain or palpitations before the episode?",
+        "Any new blood pressure or diuretic medications?"
+      ],
+      "red_flags": [
+        "syncope during exertion",
+        "injury during event",
+        "chest pain with syncope",
+        "persistent neurologic deficit"
+      ]
+    },
+    {
+      "complaint": "cough",
+      "keywords": ["sputum", "hemoptysis", "wheeze", "fever", "duration"],
+      "discussion_focus": [
+        "acute versus chronic duration",
+        "infectious versus airway disease clues",
+        "exposure and smoking history",
+        "alarm signs"
+      ],
+      "high_yield_questions": [
+        "How long have you had the cough?",
+        "Is there sputum or blood?",
+        "Any wheezing, fever, or chest pain?",
+        "Do you smoke or have asthma/COPD history?"
+      ],
+      "red_flags": [
+        "hemoptysis",
+        "hypoxia",
+        "respiratory distress",
+        "chest pain with dyspnea"
+      ]
+    },
+    {
+      "complaint": "urinary symptoms",
+      "keywords": ["dysuria", "frequency", "flank pain", "hematuria", "fever"],
+      "discussion_focus": [
+        "lower versus upper tract features",
+        "severity and recurrence",
+        "pregnancy or urologic risk",
+        "systemic signs"
+      ],
+      "high_yield_questions": [
+        "Do you have burning, urgency, or frequency?",
+        "Any fever, flank pain, nausea, or vomiting?",
+        "Any blood in urine?",
+        "Any history of kidney stones or recurrent infections?"
+      ],
+      "red_flags": [
+        "fever with flank pain",
+        "inability to keep fluids down",
+        "pregnancy with urinary symptoms",
+        "sepsis signs"
+      ]
+    },
+    {
+      "complaint": "back pain",
+      "keywords": ["radicular", "weakness", "bladder", "trauma", "night pain"],
+      "discussion_focus": [
+        "mechanical versus neurologic pattern",
+        "trauma and cancer/infection risks",
+        "functional impairment",
+        "cauda equina warning features"
+      ],
+      "high_yield_questions": [
+        "Did the pain start after lifting, injury, or gradually?",
+        "Does pain travel down a leg?",
+        "Any numbness, weakness, or trouble walking?",
+        "Any bowel or bladder changes?"
+      ],
+      "red_flags": [
+        "new urinary retention",
+        "saddle anesthesia",
+        "progressive motor weakness",
+        "fever with back pain"
+      ]
+    },
+    {
+      "complaint": "rash",
+      "keywords": ["itching", "painful", "blistering", "mucosal", "drug exposure"],
+      "discussion_focus": [
+        "timeline and distribution",
+        "systemic symptoms",
+        "medication and contact exposures",
+        "severity markers"
+      ],
+      "high_yield_questions": [
+        "When did the rash start and where did it begin?",
+        "Is it itchy, painful, or blistering?",
+        "Any new medications, foods, or skin products?",
+        "Any fever, mouth sores, or breathing symptoms?"
+      ],
+      "red_flags": [
+        "mucosal involvement",
+        "widespread blistering",
+        "anaphylaxis symptoms",
+        "fever with rapidly spreading rash"
+      ]
+    }
+  ]
+}
